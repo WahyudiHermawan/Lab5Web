@@ -54,7 +54,7 @@ Hasil Akhir : <br>
 ![image](https://user-images.githubusercontent.com/81253746/115970457-a64c4780-a56c-11eb-8abb-33445196d1a2.png)<br>
 
 **C. PEMBUATAN FORM**<br>
-1. FOrm Input<br>
+1. Form Input<br>
 ![image](https://user-images.githubusercontent.com/81253746/115970993-32ac3980-a570-11eb-989d-bfbe983dddfc.png)<br>
 Hasil :<br>
 ![image](https://user-images.githubusercontent.com/81253746/115971001-422b8280-a570-11eb-8d52-e649d40f7fc6.png)<br>
@@ -69,6 +69,17 @@ Hasil :<br>
 ![image](https://user-images.githubusercontent.com/81253746/115971954-d1876480-a575-11eb-9256-84be92891a89.png)<br>
 Hasil : <br>
 ![image](https://user-images.githubusercontent.com/81253746/115971963-e3690780-a575-11eb-8829-da0a400c73c1.png)<br>
+
+**TUGAS PRAKTIKUM 5**<br>
+1. Membuat script untuk melakukan validasi pada isian form <br>
+a. Membuat file html<br>
+![image](https://user-images.githubusercontent.com/81253746/115998829-51afd780-a613-11eb-8366-fb51b2c5b055.png)<br>
+b. Membuat style css<br>
+![image](https://user-images.githubusercontent.com/81253746/115998840-69875b80-a613-11eb-9245-17ede426521e.png)<br>
+c. Hasil <br>
+![image](https://user-images.githubusercontent.com/81253746/115998890-b703c880-a613-11eb-95c1-61db269f2007.png)<br>
+
+
 
 
 
